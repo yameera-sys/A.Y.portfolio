@@ -1,2 +1,2 @@
 // Javascript for future features
-console.log("Portfolio loaded successfully!");
+console.log("Ameera's modern portfolio loaded succesfully");
